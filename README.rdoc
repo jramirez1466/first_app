@@ -1,1 +1,1 @@
-my first rails app. from learn ruby on rails in 20min.
+week20exam 
